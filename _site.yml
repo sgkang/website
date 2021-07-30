@@ -1,0 +1,94 @@
+title: Seogi Kang
+
+description: Geophysicist, programmer, teacher
+
+brand: "SEOGI <strong>KANG</strong>"
+
+url: https://sgkang.github.io
+
+rss: https://sgkang.github.io/rss.xml
+
+author: uieda
+
+language: en
+
+keywords: 'science, geoscience, geophysics, software, open-source'
+
+keep_files: [".nojekyll"]
+
+ignore_patterns: [
+    "README.md",
+    "LICENSE.md",
+    ".github_deploy_key.enc",
+    "environment.yml",
+    "requirements.txt",
+    "blog/.sample-post.md",
+    "fonts/academicons/README.md",
+    ]
+
+strict_undefined: true
+
+thumbnail_path: "images/thumb"
+
+banner_path: "images/banner"
+
+menulinks: [
+    ['/', 'Home'],
+    ['/about', 'About'],
+    # ['/blog', 'Blog'],
+    ['/research', 'Research'],
+    ['/papers', 'Papers'],
+    # ['/presentations', 'Presentations'],
+    # ['/teaching', 'Teaching'],
+    ['/contact', 'Contact'],
+    ]
+
+menuicons: [
+    ['https://github.com/sgkang',
+     '<i class="fa fa-github fa-lg" title="Github"></i>'],
+    ['https://twitter.com/sgkang',
+     '<i class="fa fa-twitter fa-lg" title="Twitter"></i>'],
+    ['https://www.linkedin.com/in/sgkang',
+     '<i class="fa fa-linkedin fa-lg" title="LinkedIn"></i>'],
+    ['/tag',
+     '<i class="fa fa-tags fa-lg" title="Browse by tag"></i>'],
+    ['/rss.xml',
+     '<i class="fa fa-rss fa-lg" title="RSS feed for blog posts"></i>'],
+    ]
+
+twitter: sgkang
+
+authors:
+    skang: Seogi Kang
+    uieda: Leonardo Uieda
+    doldenburg: Douglas Oldenburg
+    rknight: Rosemary Knight
+    lheagy: Lindsey Heagy
+    rcockett: Rowan Cockett
+    tgreene: Todd Greene
+    cbuck: Christina Buck
+    gfogg: Graham Fogg
+    dfournier: Dominique Fournier
+    mgoebel: Meredith Goebel
+    ndewar: Noah Dewar
+    apidlisecky: Adam Pidlisecky
+    kfan: Kevin Fan
+    mmaxwell: Michael Maxwell
+    dcowan: Devin Cowan 
+
+reflinks:
+    sgkang:
+        url: http://sgkang.github.io
+        title: Leonardo Uieda
+    content_license:
+        url: http://creativecommons.org/licenses/by/4.0/
+        title: CC-BY 4.0
+    site_repo:
+        url: https://github.com/sgkang/website
+        title: sgkang/website
+    site_repo_orig:
+        url: https://github.com/leouieda/website
+        title: leouieda/website
+    simpeg:
+        url: https://www.simpeg.xyz
+        title: SimPEG

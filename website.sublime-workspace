@@ -1,0 +1,1417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"b_aquifer"
+			],
+			[
+				"up",
+				"update_mesh"
+			],
+			[
+				"pert",
+				"perturb_model"
+			],
+			[
+				"per",
+				"perturbation"
+			],
+			[
+				"model",
+				"model_dict"
+			],
+			[
+				"Ss",
+				"SskvMap"
+			],
+			[
+				"Sske",
+				"SskeMap"
+			],
+			[
+				"to",
+				"toarray"
+			],
+			[
+				"Div",
+				"DivB"
+			],
+			[
+				"del",
+				"delattr"
+			],
+			[
+				"src",
+				"source_list"
+			],
+			[
+				"time",
+				"time_mesh"
+			],
+			[
+				"ti",
+				"time_simulation"
+			],
+			[
+				"Base",
+				"BaseSurvey"
+			],
+			[
+				"get",
+				"get_J_h_aquifer"
+			],
+			[
+				"Ssk",
+				"SskvDeriv"
+			],
+			[
+				"get_J",
+				"get_J_n_equiv"
+			],
+			[
+				"h",
+				"h_aquifer"
+			],
+			[
+				"Sskv",
+				"Sskv_current"
+			],
+			[
+				"n",
+				"n_equiv"
+			],
+			[
+				"Sim",
+				"Simulation2DCellCentered"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"freq",
+				"frequencies"
+			],
+			[
+				"use",
+				"use_sounding"
+			],
+			[
+				"EM",
+				"EM1DFMSimulation"
+			],
+			[
+				"fdem",
+				"fdem_1d"
+			],
+			[
+				"temp",
+				"temp_slice"
+			],
+			[
+				"rad",
+				"radial_distance"
+			],
+			[
+				"sour",
+				"source_orientation"
+			],
+			[
+				"int",
+				"integral_output"
+			],
+			[
+				"i",
+				"i_sounding"
+			],
+			[
+				"n_f",
+				"n_frequency"
+			],
+			[
+				"mag",
+				"magnetic_dipole_response_by_sounding"
+			],
+			[
+				"recei",
+				"receiver_list"
+			],
+			[
+				"_fre",
+				"_frequencies_by_sounding"
+			],
+			[
+				"soun",
+				"sounding_number_chunks"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"sou",
+				"source_location_by_sounding_dict"
+			],
+			[
+				"out",
+				"output_type"
+			],
+			[
+				"sen",
+				"sensitivity_sigma"
+			],
+			[
+				"fre",
+				"frequency_domain_1d"
+			],
+			[
+				"wave",
+				"waveform_current"
+			],
+			[
+				"Point",
+				"PointMagneticFieldTimeDerivative"
+			],
+			[
+				"Poin",
+				"PointMagneticField"
+			],
+			[
+				"rec",
+				"receivers"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"Ra",
+				"RawWaveform"
+			],
+			[
+				"source",
+				"source_locations"
+			],
+			[
+				"frequ",
+				"frequencies"
+			],
+			[
+				"ins",
+				"isinstance"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"da",
+				"data_type"
+			],
+			[
+				"data",
+				"data_types"
+			],
+			[
+				"spa",
+				"spatial"
+			],
+			[
+				"rho",
+				"rho_0"
+			],
+			[
+				"fac",
+				"face_weights"
+			],
+			[
+				"ind",
+				"indActive"
+			],
+			[
+				"inds",
+				"inds_air"
+			],
+			[
+				"interp",
+				"interp1d"
+			],
+			[
+				"inter",
+				"interpolate"
+			],
+			[
+				"layer",
+				"layer_thickness"
+			],
+			[
+				"lay",
+				"layer_thickness"
+			],
+			[
+				"n_",
+				"n_tower"
+			],
+			[
+				"topo",
+				"toponame"
+			],
+			[
+				"input",
+				"input_type"
+			],
+			[
+				"tmp",
+				"tmp_contour"
+			],
+			[
+				"con",
+				"continuous_update"
+			],
+			[
+				"doi",
+				"doi_index"
+			],
+			[
+				"show",
+				"show_smooth"
+			],
+			[
+				"max",
+				"maxIter"
+			],
+			[
+				"Int",
+				"IntSlider"
+			],
+			[
+				"asp",
+				"aspect_ratio"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "---\ntitle: About\nlayout: page\ncontent:\n    - phd\n    - masters\n    - bachelors\nbanner: slo.png\nbanner_position: center left\nbanner_description: \"Probability of coarse-grained materials at Paso Robles Subbasin, CA, U.S.A\"\n---\n\n\n{% from \"utils.html\" import fa, ai %}\n\n# Short Bio\n\nI got my PhD in Geophysics at University of British Columbia, Canada, in 2018. My thesis work focussed on computational electromagnetics and its application to mining problems. Currently, I am a Postdoctoral Researcher in [Environmental Geophysics Group](https://enviro.stanford.edu/) at Stanford University. My focus is on advancing use of an airborne electromagnetic and remote sensing methods for groundwater management and groundwater science. I continue to contribute to the development of open source software, [SimPEG](https://simpeg.xyz/), and educational resources, [GeoSci.xyz](http://geosci.xyz/), for geophysics. \n\n\n# Curriculum Vitae\n\nA PDF version of my CV: <a href=\"https://github.com/sgkang/website/raw/master/pdf/cv-seogikang-2021.pdf\" target=\"_blank\" type=\"application/pdf\" rel=\"external noopener noreferrer\"><i class=\"fa fa-file-pdf-o\"></i> Download Curriculum Vitae</a>\n\n# Access of my works in on-line\n\nYou can find myself and my research, code, articles, and data at:\n\n<ul class=\"fa-ul\">\n\n<li><i class=\"fa-li fa fa-github fa-fw\"></i>\n<a href=\"https://github.com/sgkang\">Github</a>:\n<em>software projects, repositories for papers and talks</em>\n</li>\n\n<li><i class=\"fa-li ai ai-orcid fa-fw\"></i>\n<a href=\"http://orcid.org/0000-0002-9963-936X\">ORCID</a> ( 0000-0002-9963-936X ):\n<em>aggregates all of my scientific output that have DOIs</em>\n</li>\n\n<li><i class=\"fa-li ai ai-impactstory fa-fw\"></i>\n<a href=\"https://impactstory.org/u/0000-0002-9963-936X\">ImpactStory</a>:\n<em>hub for article level metrics and further impact of research</em>\n</li>\n\n<li><i class=\"fa-li ai ai-google-scholar fa-fw\"></i>\n<a href=\"https://scholar.google.com/citations?user=wFndVSMAAAAJ&hl=en\">Google Scholar</a>:\n<em>publication list and citation information</em>\n</li>\n\n<!-- <li><i class=\"fa-li ai ai-figshare fa-fw\"></i>\n<a href=\"http://figshare.com/authors/Leonardo%20Uieda/97471\">figshare</a>:\n<em>where I publish most supplemental material, slides, posters</em>\n</li>\n -->\n<!-- <li><i class=\"fa-li ai ai-publons fa-fw\"></i>\n<a href=\"https://publons.com/a/1328468/\">Publons</a>:\n<em>registry for my peer-review contributions</em>\n</li>\n -->\n<li><i class=\"fa-li ai ai-researchgate fa-fw\"></i>\n<a href=\"https://www.researchgate.net/profile/Seogi-Kang\">ResearchGate</a>:\n<em>academic social network</em>\n</li>\n\n</ul>\n\n\n# Experience\n\n## Postdoctoral Fellow\n\n<ul class=\"fa-ul\">\n    <li><i class=\"fa-li fa fa-calendar fa-fw\"></i>\n        Jan. 2019 - present\n    </li>\n    <li><i class=\"fa-li fa fa-university fa-fw\"></i>\n        Department of Geophysics\n        <br>\n        School of Earth\n        <br>\n        <a href=\"https://earth.stanford.edu/\">Stanford Univeristy</a>, U.S.A\n    </li>\n    <li><i class=\"fa-li fa fa-info-circle fa-fw\"></i>\n        More about my role and activities can be found in \n        <a href=\"https://enviro.stanford.edu/\">Environmental Geophysics Group</a> and \n        <a href=\"https://mapwater.stanford.edu/\">Ground Water Architecture Project</a>\n    </li>\n</ul>\n\n## Postdoctoral Fellow\n\n<ul class=\"fa-ul\">\n    <li><i class=\"fa-li fa fa-calendar fa-fw\"></i>\n        June 2018 - Dec. 2018 \n    </li>\n    <li><i class=\"fa-li fa fa-university fa-fw\"></i>\n        Department of Earth, Ocean and Atmopheric Sciences\n        <br>\n        <a href=\"https://www.eoas.ubc.ca/\">University of British Columbia</a>, Canada\n    </li>\n    <li><i class=\"fa-li fa fa-info-circle fa-fw\"></i>\n        Developed geophysical 1D spatially-constrained inversion algorithm that can invert large-scale AEM data.\n        The developed software, referred to as simpeg-EM1D is avaiable though <a href=\"https://github.com/simpeg/simpegEM1D\"> the Github </a>. This was integrated with a commercial framework (called <a href=\"https://gif.eos.ubc.ca/giftools\"> GIFtools</a>), and has been actively used my major mining companes (TTeck, Barrick, RioTinto, Anglo American, BHP, Glencore and Vale). \n    </li>\n</ul>\n\n\n# Education\n\n<div>\n    {%- for edu in this.content -%}\n        <h3><a href=\"{{ edu.url }}\">{{ edu.title }}  »</a></h3>\n        <ul class=\"fa-ul\">\n            <li><i class=\"fa-li fa fa-calendar fa-fw\"></i>\n                {{ edu.start_date.year}}-{{ edu.date.year }}\n            </li>\n            <li><i class=\"fa-li fa fa-university fa-fw\"></i>\n                {{ edu.institution }}\n            </li>\n            <li><i class=\"fa-li fa fa-graduation-cap fa-fw\"></i>\n                Advisor: {{ edu.advisor }}\n            </li>\n            <li><i class=\"fa-li fa fa-book fa-fw\"></i>\n                Thesis: {{ edu.thesis }}\n            </li>\n        </ul>\n    {%- endfor -%}\n</div>\n",
+			"file": "about/index.md",
+			"file_size": 5002,
+			"file_write_time": 132720641020696116,
+			"settings":
+			{
+				"buffer_size": 4872,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "---\ntitle: \"Improving water security in Mon State, Myanmar via geophysical capacity building\"\ndate: 2019-01-01\nauthor: skang\nperiod: 2019-2020\nrole: Principal Geoscientist\naward: <a href=\"TBA\">TBA</a>\nagency: Geoscience Without Borders\nfunds: USD 50,000\ninstitution: University of British Columbia\nlayout: publication\nthumbnail: gwb.png\ntags: gwb2019\n---\n\n{% from \"utils.html\" import make_tag %}\n\n# About\n\nIn Progress ...\n\n# Abstract\n\nIn Progress ...",
+			"file": "research/gwb2019.md",
+			"file_size": 473,
+			"file_write_time": 132720665458956698,
+			"settings":
+			{
+				"buffer_size": 450,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 218 files for \"the source code used\"\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\404.html:\n  139          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  140          <br>\n  141:         The source code used to build this website is available at\n  142          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  143      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\about\\bachelors.html:\n  133          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  134          <br>\n  135:         The source code used to build this website is available at\n  136          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  137      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\about\\index.html:\n  213          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  214          <br>\n  215:         The source code used to build this website is available at\n  216          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  217      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\about\\masters.html:\n  127          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  128          <br>\n  129:         The source code used to build this website is available at\n  130          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  131      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\about\\phd.html:\n  118          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  119          <br>\n  120:         The source code used to build this website is available at\n  121          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  122      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\blog\\index.html:\n   92          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   93          <br>\n   94:         The source code used to build this website is available at\n   95          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   96      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\contact\\index.html:\n  122          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  123          <br>\n  124:         The source code used to build this website is available at\n  125          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  126      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\index.html:\n  174          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  175          <br>\n  176:         The source code used to build this website is available at\n  177          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  178      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\papers\\aem_model_2021.html:\n  193          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  194          <br>\n  195:         The source code used to build this website is available at\n  196          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  197      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\papers\\ert_2021.html:\n  196          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  197          <br>\n  198:         The source code used to build this website is available at\n  199          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  200      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\papers\\index.html:\n  162          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  163          <br>\n  164:         The source code used to build this website is available at\n  165          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  166      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\papers\\ip_2016.html:\n  193          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  194          <br>\n  195:         The source code used to build this website is available at\n  196          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  197      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\papers\\powerline2021.html:\n  200          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  201          <br>\n  202:         The source code used to build this website is available at\n  203          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  204      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\papers\\simpeg2015.html:\n  196          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  197          <br>\n  198:         The source code used to build this website is available at\n  199          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  200      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\papers\\tkc_2017.html:\n  193          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  194          <br>\n  195:         The source code used to build this website is available at\n  196          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  197      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\presentations\\index.html:\n   92          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   93          <br>\n   94:         The source code used to build this website is available at\n   95          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   96      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\research\\gap2019.html:\n  130          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  131          <br>\n  132:         The source code used to build this website is available at\n  133          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  134      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\research\\gwb2019.html:\n  138          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  139          <br>\n  140:         The source code used to build this website is available at\n  141          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  142      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\research\\index.html:\n  132          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  133          <br>\n  134:         The source code used to build this website is available at\n  135          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  136      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\aem\\index.html:\n  119          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  120          <br>\n  121:         The source code used to build this website is available at\n  122          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  123      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\airborne geophysics\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\em\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\ert\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\gap2019\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\groundwater\\index.html:\n  107          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  108          <br>\n  109:         The source code used to build this website is available at\n  110          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  111      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\gwb2019\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\index.html:\n   85          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   86          <br>\n   87:         The source code used to build this website is available at\n   88          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   89      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\inductive source\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\inversion\\index.html:\n  143          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  144          <br>\n  145:         The source code used to build this website is available at\n  146          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  147      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\ip\\index.html:\n  107          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  108          <br>\n  109:         The source code used to build this website is available at\n  110          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  111      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\minerals\\index.html:\n  107          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  108          <br>\n  109:         The source code used to build this website is available at\n  110          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  111      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\open-source\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\seawater intrusion\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\simpeg\\index.html:\n  119          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  120          <br>\n  121:         The source code used to build this website is available at\n  122          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  123      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\simulation\\index.html:\n  107          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n  108          <br>\n  109:         The source code used to build this website is available at\n  110          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n  111      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\tag\\uncertainty\\index.html:\n   95          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   96          <br>\n   97:         The source code used to build this website is available at\n   98          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   99      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\talks\\index.html:\n   92          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   93          <br>\n   94:         The source code used to build this website is available at\n   95          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   96      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_build\\teaching\\index.html:\n   92          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   93          <br>\n   94:         The source code used to build this website is available at\n   95          <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.\n   96      </p>\n\nC:\\Users\\sgkan\\Projects\\website\\_layouts\\footer.html:\n   12          and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n   13          <br>\n   14:         The source code used to build this website is available at\n   15          <a href=\"{{ site.reflinks.site_repo.url }}\">{{ site.reflinks.site_repo.title }}</a>.\n   16      </p>\n\n39 matches across 39 files\n",
+			"settings":
+			{
+				"buffer_size": 13218,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "<div class=\"container\">\n\n    <p class=\"text-center\">\n        © {{ site.now.year }} {{ site.title }} •\n        Except were noted, all content is licensed\n        <a rel=\"license\"\n           href=\"{{ site.reflinks.content_license.url }}\">{{ site.reflinks.content_license.title }}</a>.\n        <br>\n        Built using <a href=\"http://urubu.jandecaluwe.com/\">Urubu</a>\n        and <a href=\"http://getbootstrap.com/\">Bootstrap</a> with\n        icons by <a href=\"http://fontawesome.io/\">Font Awesome</a>\n        and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n        <br>\n        The source code used to build this website was forked from\n        <a href=\"{{ site.reflinks.site_repo_leo.url }}\">{{ site.reflinks.site_repo_leo.title }}</a>.\n        The source code used to build this website is available in \n        <a href=\"{{ site.reflinks.site_repo.url }}\">{{ site.reflinks.site_repo.title }}</a>.        \n    </p>\n\n</div>\n",
+			"file": "_layouts/footer.html",
+			"file_size": 967,
+			"file_write_time": 132720695845843427,
+			"settings":
+			{
+				"buffer_size": 944,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "name: build-html\n\non:\n  pull_request:\n  push:\n    branches:\n      - main\n\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      # Checks-out your repository under $GITHUB_WORKSPACE\n      - name: Checkout\n        uses: actions/checkout@v2\n\n      - name: Setup Python\n        uses: actions/setup-python@v2\n        with:\n          python-version: '3.8'\n\n      - name: Install requirements\n        run: pip install -r requirements.txt\n\n      - name: Build the website\n        run: make\n\n      - name: Push to sgkang.github.io\n        if: success() && github.event_name == 'push'\n        # Don't use tags: https://julienrenaux.fr/2019/12/20/github-actions-security-risk/\n        uses: peaceiris/actions-gh-pages@v3\n        with:\n          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}\n          external_repository: sgkang/website\n          publish_branch: main\n          publish_dir: ./_build\n          # Only keep the latest commit to avoid bloating the repository\n          force_orphan: true\n          user_name: 'github-actions[bot]'\n          user_email: 'github-actions[bot]@users.noreply.github.com'\n",
+			"file": ".github/workflows/build.yml",
+			"file_size": 1148,
+			"file_write_time": 132720730744781012,
+			"settings":
+			{
+				"buffer_size": 1108,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "research/gap2019.html",
+			"settings":
+			{
+				"buffer_size": 6009,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n        <meta name=\"author\" content=\"Seogi Kang\"/>\n\n            <meta name=\"keywords\" content=\"science, geoscience, geophysics, software, open-source\"/>\n\n        <meta name=\"twitter:card\" content=\"summary\">\n        <meta name=\"twitter:image\" content=\"https://sgkang.github.io/images/twitter-card-image.png\">\n    <meta name=\"twitter:site\" content=\"@sgkang09\">\n    <meta name=\"twitter:title\" content=\"Papers\">\n            <meta name=\"twitter:description\" content=\"...\">\n\n    <meta property=\"og:title\" content=\"Papers\">\n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:url\" content=\"https://sgkang.github.io/papers/index.html\">\n    <meta property=\"og:site_name\" content=\"Seogi Kang\">\n        <meta property=\"og:image\" content=\"https://sgkang.github.io/images/twitter-card-image.png\">\n            <meta property=\"og:description\" content=\"...\">\n\n    <title>    Papers | Seogi Kang\n</title>\n    <link rel=\"shortcut icon\" href=\"/images/favicon.png\">\n\n    <!-- CSS -->\n    <link rel=\"stylesheet\" href=\"/css/bootstrap.min.css\">\n    <link rel=\"stylesheet\" href=\"/css/style.css\">\n    <link rel=\"stylesheet\" href=\"/css/syntax.css\">\n    <link rel=\"stylesheet\" href=\"/css/fonts.css\">\n    <link rel=\"stylesheet\" href=\"/css/academicons.css\">\n    <link rel=\"stylesheet\" href=\"/css/font-awesome.css\">\n\n    <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://sgkang.github.io/rss.xml\" title=\"Seogi Kang\">\n</head>\n\n<body>\n\n\n            <div class=\"banner\"\n                 title=\"Distribution of salinity obtained from airborne electromangnetic data in Indial Wells Valley, CA, U.S.A.\"\n                 style=\"background-image: linear-gradient(to top, #00000022, #000000dd), url(/images/banner/iwv.PNG); background-position: center;\">\n\n                    <div class=\"menu-transparent container-fluid menu text-center\">\n        <div class=\"col-lg-12 menu-list\">\n            <ul>\n                    <li><a href=\"/\">Home</a></li>\n                    <li><a href=\"/about\">About</a></li>\n                    <li><a href=\"/research\">Research</a></li>\n                    <li><a href=\"/papers\">Papers</a></li>\n                    <li><a href=\"/contact\">Contact</a></li>\n                    <li><a href=\"https://github.com/sgkang\"><i class=\"fa fa-github fa-lg\" title=\"Github\"></i></a></li>\n                    <li><a href=\"https://twitter.com/sgkang09\"><i class=\"fa fa-twitter fa-lg\" title=\"Twitter\"></i></a></li>\n                    <li><a href=\"https://www.linkedin.com/in/seogi-kang/\"><i class=\"fa fa-linkedin fa-lg\" title=\"LinkedIn\"></i></a></li>\n                    <li><a href=\"/tag\"><i class=\"fa fa-tags fa-lg\" title=\"Browse by tag\"></i></a></li>\n            </ul>\n        </div>\n    </div>\n\n                <div class=\"banner-text\" title=\"Distribution of salinity obtained from airborne electromangnetic data in Indial Wells Valley, CA, U.S.A.\">\n                    <h1>\n                        Papers\n                    </h1>\n                </div>\n            </div>\n\n\n    <div class=\"container\">\n                \n\n                    <div class=\"card-index\"><hr><div class=\"row\"><div class=\"col-md-6\"><div class=\"row\"><div class=\"col-md-6 col-sm-6 col-xs-6\">\n                        <a href=\"/papers/aem_model_2021.html\">\n    <div class=\"row card\">\n        <div class=\"col-md-12 card-thumbnail\">\n            <img class=\"\" alt=\"Thumbnail image for publication.\"\n         src=\"/images/thumb/aem_butte.png\">\n        </div>\n        <div class=\"col-md-12 card-caption\"><span class=\"card-title\">\n                Exploring the Model Space of Airborne Electromagnetic Data to Delineate Large-Scale Structure and Heterogeneity within an Aquifer System\n            </span><br>\n                <span class=\"card-date\">(2021)</span><br></div>\n    </div></a>\n                    </div><div class=\"col-md-6 col-sm-6 col-xs-6\">\n                        <a href=\"/papers/ert_2021.html\">\n    <div class=\"row card\">\n        <div class=\"col-md-12 card-thumbnail\">\n            <img class=\"\" alt=\"Thumbnail image for publication.\"\n         src=\"/images/thumb/ert_seawater.gif\">\n        </div>\n        <div class=\"col-md-12 card-caption\">    <i class=\"ai ai-open-access \" title=\"\"></i><span class=\"card-title\">\n                Enhancing the resolving ability of electrical resistivity tomography for imaging saltwater intrusion through improvements in inversion methods: A laboratory and numerical study\n            </span><br>\n                <span class=\"card-date\">(2021)</span><br></div>\n    </div></a>\n                    </div></div></div><div class=\"col-md-6\"><div class=\"row\"><div class=\"col-md-6 col-sm-6 col-xs-6\">\n                        <a href=\"/papers/powerline2021.html\">\n    <div class=\"row card\">\n        <div class=\"col-md-12 card-thumbnail\">\n            <img class=\"\" alt=\"Thumbnail image for publication.\"\n         src=\"/images/thumb/powerline_aem.gif\">\n        </div>\n        <div class=\"col-md-12 card-caption\"><span class=\"card-title\">\n                The effect of power lines on time-domain airborne electromagnetic data\n            </span><br>\n                <span class=\"card-date\">(2021)</span><br></div>\n    </div></a>\n                    </div><div class=\"col-md-6 col-sm-6 col-xs-6\">\n                        <a href=\"/papers/tkc_2017.html\">\n    <div class=\"row card\">\n        <div class=\"col-md-12 card-thumbnail\">\n            <img class=\"\" alt=\"Thumbnail image for publication.\"\n         src=\"/images/thumb/tkc_2017.png\">\n        </div>\n        <div class=\"col-md-12 card-caption\"><span class=\"card-title\">\n                Inversion of airborne geophysics over the DO-27/DO-18 kimberlites - Part 3: Induced polarization\n            </span><br>\n                <span class=\"card-date\">(2016)</span><br></div>\n    </div></a>\n                    </div></div></div></div><div class=\"row\"><div class=\"col-md-6\"><div class=\"row\"><div class=\"col-md-6 col-sm-6 col-xs-6\">\n                        <a href=\"/papers/ip_2016.html\">\n    <div class=\"row card\">\n        <div class=\"col-md-12 card-thumbnail\">\n            <img class=\"\" alt=\"Thumbnail image for publication.\"\n         src=\"/images/thumb/ip_2016.jpg\">\n        </div>\n        <div class=\"col-md-12 card-caption\"><span class=\"card-title\">\n                On recovering distributed IP information from inductive source time domain electromagnetic data\n            </span><br>\n                <span class=\"card-date\">(2016)</span><br></div>\n    </div></a>\n                    </div><div class=\"col-md-6 col-sm-6 col-xs-6\">\n                        <a href=\"/papers/simpeg2015.html\">\n    <div class=\"row card\">\n        <div class=\"col-md-12 card-thumbnail\">\n            <img class=\"\" alt=\"Thumbnail image for publication.\"\n         src=\"/images/thumb/simpeg.png\">\n        </div>\n        <div class=\"col-md-12 card-caption\">    <i class=\"ai ai-open-access \" title=\"\"></i><span class=\"card-title\">\n                SimPEG: An open source framework for simulation and gradient based parameter estimation in geophysical applications\n            </span><br>\n                <span class=\"card-date\">(2015)</span><br></div>\n    </div></a>\n                    </div></div></div></div></div>\n    </div>\n\n\n    <footer>\n<div class=\"container\">\n\n    <p class=\"text-center\">\n        © 2021 Seogi Kang •\n        Except were noted, all content is licensed\n        <a rel=\"license\"\n           href=\"http://creativecommons.org/licenses/by/4.0/\">CC-BY 4.0</a>.\n        <br>\n        Built using <a href=\"http://urubu.jandecaluwe.com/\">Urubu</a>\n        and <a href=\"http://getbootstrap.com/\">Bootstrap</a> with\n        icons by <a href=\"http://fontawesome.io/\">Font Awesome</a>\n        and <a href=\"http://jpswalsh.github.io/academicons/\">Academicons</a>.\n        <br>\n        The source code used to build this website was forked from\n        <a href=\"https://github.com/leouieda/website\">leouieda/website</a>.\n        The source code used to build this website is available in \n        <a href=\"https://github.com/sgkang/website\">sgkang/website</a>.        \n    </p>\n\n</div>    </footer>\n\n    <!-- Placed at the end of the document so the pages load faster -->\n    <!-- ================================================== -->\n        <!-- Bootstrap core JavaScript -->\n        <script src=\"/js/jquery.min.js\"></script>\n        <script src=\"/js/bootstrap.min.js\"></script>\n\n</body>\n</html>",
+			"file": "papers/index.html",
+			"file_size": 8666,
+			"file_write_time": 132720732773701550,
+			"settings":
+			{
+				"buffer_size": 8485,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sgkan/gh-pages",
+			"settings":
+			{
+				"buffer_size": 3389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/sgkan/gh-pages.pub",
+			"settings":
+			{
+				"buffer_size": 750,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\ntitle: Research\nlayout: page\norder: date\nbanner: aem_butte.png\nbanner_description: \"Resistivity of the Butte County, California, U.S.A\"\n---\n\n{% from \"utils.html\" import make_index, make_tags, make_tag, fa %}\n\n\nMy research uses computational methods in geophysical inversion and data science to advance the use of  applied geophysics in geoscience applications including groundwater, environmental, geotechnical, and minerals. Problems in these applications are multi-disciplinary requiring effective mechanisms such as open-source tools to communicate across disciplinary lines. Such tools are important to me, as I want to interact with people from both academia and industry to help solve these problems. I bring computational expertise as well as experience related to field acquisition particularly in electromagnetics (EM) and induced polarization (IP), but also I have a background in potential field methods such as gravity and magnetics. I am a developer of open-source computational tools (e.g. SimPEG — open-source geophysical software) and want to promote the growth of those open source tools as well as use them. \n\n# Grants\n\nThese are funded research projects in which I participate as a principal geoscientist:\n\n<div class=\"research-index\">\n    {{ make_index(site.reflinks[\"/research\"].content, site, hr=false, date=false) }}\n</div>\n\n\n# Research Themes\n\n## Electromagnetic Imaging of the Subsurface \n\nIn Progress ...\n\n\n## Integrative Geoscience Problems\n\nIn Progress ...\n\n\n## Frequency Dependent Properties\n\nIn Progress ...\n\n\n\n# Open-source resources\n\nI am a co-creator of Python-based open-source geophysical simulation and inversion package, SimPEG, and an editor of on-line text books for EM and applied geophysics: EM GeoSCi and GPG, respectively. \n\n## SimPEG ([www.simpeg.xyz](https://www.simpeg.xyz))\n\nSimPEG includes a suite of geophysical methods including magnetics, gravity, ERT (or DC resistivity), EM, magnetotellurics (MT). \n\n\n## EM GeoSci ([em.geosci.xyz](https://em.geosci.xyz))\n\nOn-line text book for electromagnetic geophysics. \n\n## Geophysics for Practicing Geophysicists ([gpg.geosci.xyz](https://gpg.geosci.xyz))\n\nOn-line text book for applied geophysics. \n\n",
+			"file": "research/index.md",
+			"file_size": 2255,
+			"file_write_time": 132720695436222142,
+			"settings":
+			{
+				"buffer_size": 2196,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"{{ site.language }}\">\n\n<head>\n{% block head %}\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    {% block meta %}\n        <meta name=\"author\" content=\"{{ site.authors[site.author] }}\"/>\n\n        {% if site.keywords %}\n            <meta name=\"keywords\" content=\"{{ site.keywords }}\"/>\n        {% endif %}\n\n        {% block twitter_card %}\n        {% endblock %}\n\n        {% block opengraph %}\n        {% endblock %}\n    {% endblock %}\n\n    <title>{% block title %}{{ site.title|striptags }}{% endblock title %}</title>\n    <link rel=\"shortcut icon\" href=\"/images/favicon.png\">\n\n    <!-- CSS -->\n    <link rel=\"stylesheet\" href=\"/css/bootstrap.min.css\">\n    <link rel=\"stylesheet\" href=\"/css/style.css\">\n    <link rel=\"stylesheet\" href=\"/css/syntax.css\">\n    <link rel=\"stylesheet\" href=\"/css/fonts.css\">\n    <link rel=\"stylesheet\" href=\"/css/academicons.css\">\n    <link rel=\"stylesheet\" href=\"/css/font-awesome.css\">\n\n    {% if site.rss is defined %}\n    <link rel=\"alternate\" type=\"application/rss+xml\" href=\"{{ site.rss }}\" title=\"{{ site.title }}\">\n    {% endif %}\n{% endblock head %}\n</head>\n\n<body>\n\n    {% from \"utils.html\" import menu %}\n\n    {% block banner %}\n        {% if this.banner is defined %}\n            {% if this.banner_position is defined %}\n                {% set position = this.banner_position %}\n            {% else %}\n                {% set position = \"center\" %}\n            {% endif %}\n            {% if this.banner_description is defined %}\n                {% set title = this.banner_description %}\n            {% else %}\n                {% set title = \"\" %}\n            {% endif %}\n            <div class=\"banner\"\n                 title=\"{{ title }}\"\n                 style=\"background-image: linear-gradient(to top, #00000022, #000000dd), url(/{{ site.banner_path }}/{{ this.banner }}); background-position: {{position}};\">\n\n                {{ menu(\"menu-transparent\", site) }}\n\n                <div class=\"banner-text\" title=\"{{ title }}\">\n                    <h1>\n                        {{ this.title }}\n                    </h1>\n                    {% if this.description is defined %}\n                        <p>{{ this.description }}</p>\n                    {% endif %}\n                </div>\n            </div>\n        {% else %}\n            {{ menu(\"menu-opaque\", site) }}\n        {% endif %}\n    {% endblock %}\n\n    {% block body %}\n    {% endblock %}\n\n    <footer>\n        {% include 'footer.html' %}\n    </footer>\n\n    <!-- Placed at the end of the document so the pages load faster -->\n    <!-- ================================================== -->\n    {% block javascript_includes %}\n        <!-- Bootstrap core JavaScript -->\n        <script src=\"/js/jquery.min.js\"></script>\n        <script src=\"/js/bootstrap.min.js\"></script>\n    {% endblock %}\n\n</body>\n</html>\n",
+			"file": "_layouts/base.html",
+			"file_size": 2986,
+			"file_write_time": 132720695462470685,
+			"settings":
+			{
+				"buffer_size": 2894,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sgkan/Projects/website",
+		"/C/Users/sgkan/Projects/sgkang.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/sgkan/Projects/website/research/gap2019.md",
+		"/C/Users/sgkan/Projects/website/papers/index.md",
+		"/C/Users/sgkan/Projects/website/papers/powerline2021.md",
+		"/C/Users/sgkan/Projects/website/papers/ert_2021.md",
+		"/C/Users/sgkan/Projects/website/.github/workflows/build.yml",
+		"/C/Users/sgkan/Projects/website/papers/simpeg2015.md",
+		"/C/Users/sgkan/Projects/website/papers/ip_2016.md",
+		"/C/Users/sgkan/Projects/website/papers/tkc_2017.md",
+		"/C/Users/sgkan/Projects/website/papers/aem_model_2021.md",
+		"/C/Users/sgkan/Projects/website/_site.yml",
+		"/C/Users/sgkan/Projects/website/about/bachelors.md",
+		"/C/Users/sgkan/Projects/website/about/masters.md",
+		"/C/Users/sgkan/Projects/website/research/index.md",
+		"/C/Users/sgkan/Projects/website/index.md",
+		"/C/Users/sgkan/Projects/website/research/powerline2021.md",
+		"/C/Users/sgkan/Projects/website/website",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain/sources.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/__init__.py",
+		"/C/Users/sgkan/Downloads/network-monitoring",
+		"/C/Users/sgkan/Dropbox/Stanford/Kaweah/leapfrog/kaweah-tmp.tfw",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain/simulation_emg3d.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/simulation.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/survey.py",
+		"/C/Users/sgkan/Projects/insarinv/insarinv/survey.py",
+		"/C/Users/sgkan/Projects/simpegEM1D/simpegEM1D/Waveforms.py",
+		"/C/Users/sgkan/Projects/insarinv/insarinv/__init__.py",
+		"/C/Users/sgkan/Dropbox/Researches/curvenote/subsidence/from_matt/paramfile.par",
+		"/C/Users/sgkan/Dropbox/Stanford/Kaweah/leapfrog/merged/resistivity_merged.lfc",
+		"/C/Users/sgkan/Projects/rockphysics/rockphysics/turbo.py",
+		"/C/Users/sgkan/Projects/rockphysics/rockphysics/leapfrog.py",
+		"/C/Users/sgkan/Projects/simpeg/README.rst",
+		"/C/Users/sgkan/Projects/discretize/discretize/operators/differential_operators.py",
+		"/C/Users/sgkan/Dropbox/Stanford/SanLuisObispo/01_Data/notebooks/sgems/run_sgems.py",
+		"/C/Users/sgkan/Downloads/nosbatc/nosbatc/nosbatc.e00",
+		"/C/Users/sgkan/Dropbox/Stanford/Kerry-Rosemary/Datasets/bathymetric contours (Stanford source)/10m_cont.shp.xml",
+		"/C/Users/sgkan/Dropbox/DataViz/CV_dS/Readme.md",
+		"/C/Users/sgkan/Projects/insarinv/insarinv/simulation.py",
+		"/C/Users/sgkan/Projects/insarinv/environment.yml",
+		"/C/Users/sgkan/Projects/insarinv/README.md",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/base.py",
+		"/C/Users/sgkan/Projects/simpeg/tutorials/02-linear_inversion/plot_inv_1_inversion_lsq.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/inverse_problem.py",
+		"/C/Users/sgkan/Projects/insarinv/.github/workflows/testing_in_conda.yml",
+		"/C/Users/sgkan/Projects/insarinv/requirements_dev.txt",
+		"/C/Users/sgkan/Projects/simpeg/setup.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain/survey.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testEM1D_FD_jac_layers.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/base_1d.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/supporting_functions/kernels_by_sounding.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain_1d/waveforms.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain_1d/__init__.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testEM1D_FD_fwd.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/simulation.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain_1d/simulation.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain/survey.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/supporting_functions/kernels.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testGlobalEM1D_FD_jac_layers.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain/receivers.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testEM1D_TD_general_fwd.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testEM1D_TD_dual_moment_fwd.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testGlobalEM1D_TD_jac_layers_dual_moment.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testGlobalEM1D_TD_jac_layers.py",
+		"/C/Users/sgkan/Projects/geoana/geoana/kernels/tranverse_electric_reflections.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/supporting_functions/__init__.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testEM1D_TD_off_jac_layers.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/objective_function.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/__init__.py",
+		"/C/Users/sgkan/Projects/simpegEM1D/simpegEM1D/GlobalEM1D.py",
+		"/C/Users/sgkan/Projects/simpegEM1D/simpegEM1D/EM1D.py",
+		"/C/Users/sgkan/Projects/geoana/geoana/kernels/_extensions/setup.py",
+		"/C/Users/sgkan/Projects/geoana/geoana/kernels/setup.py",
+		"/C/Users/sgkan/Dropbox/Researches/curvenote/em1d-hack/MPIpool.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/__init__.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/data.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain/simulation.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain_1d/survey.py",
+		"/C/Users/sgkan/Projects/simpegEM1D/simpegEM1D/Survey.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain/sources.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain/simulation.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain/receivers.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testEM1D_TD_off_fwd.py",
+		"/C/Users/sgkan/Projects/simpeg/tests/em/em1d/testEM1D_TD_general_jac_layers.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain_1d/supporting_functions/waveform_functions.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain_1d/receivers.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/time_domain_1d/sources.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/em1d/sources.py",
+		"/C/Users/sgkan/Projects/transform-2021-simpeg/environment.yml",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/survey.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/sources.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/frequency_domain_1d/receivers.py",
+		"/C/Users/sgkan/Projects/transform-2021-simpeg/.travis.yml",
+		"/C/Users/sgkan/Projects/transform-2021-simpeg/environment_for_test.yml",
+		"/C/Users/sgkan/Projects/transform-2021-simpeg/tests/test_notebooks.py",
+		"/C/Users/sgkan/Projects/transform-2021-simpeg/requirements_dev.txt",
+		"/C/Users/sgkan/Projects/gwb-dc-inversions/environment.yml",
+		"/C/Users/sgkan/Projects/transform-2021-simpeg/README.md",
+		"/C/Users/sgkan/Dropbox/Stanford/Kaweah/notebooks/for_meredith/README.txt",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/static/utils/static_utils.py",
+		"/C/Users/sgkan/Dropbox/Course Slides/2019-Argentina/Resources/lots_of_equations.tex",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/regularization/sparse.py",
+		"/C/Users/sgkan/Projects/rockphysics/rockphysics/rockphysics.py",
+		"/C/Users/sgkan/Projects/geosci-labs/geoscilabs/inversion/LinearInversionDirect.py",
+		"/C/Users/sgkan/Dropbox/Stanford/Kaweah/notebooks/for_paul/readme.txt",
+		"/C/Users/sgkan/Projects/gwb-dc-inversions/notebooks/utils/DCWidget3Layer2_5D.py",
+		"/C/Users/sgkan/Projects/gwb-dc-inversions/notebooks/utils/DCResistivity.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/static/induced_polarization/simulation_2d.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/electromagnetics/static/resistivity/simulation.py",
+		"/C/Users/sgkan/Projects/simpeg/SimPEG/regularization/tikhonov.py",
+		"/C/Users/sgkan/Projects/simpegEM1D/simpegEM1D/AEMInterpolation.py",
+		"/C/Users/sgkan/Dropbox/Stanford/Kaweah/notebooks/inversion_results/aem-inversion-kaweah-ds-sparse.py",
+		"/C/Users/sgkan/Dropbox/Stanford/SanLuisObispo/01_Data/11_Shapefiles/faults/known-faults.prj",
+		"/C/Users/sgkan/Dropbox/Stanford/SanLuisObispo/01_Data/11_Shapefiles/faults/known-faults.shx",
+		"/C/Users/sgkan/Dropbox/Stanford/SanLuisObispo/01_Data/11_Shapefiles/faults/known-faults.cpg",
+		"/C/Users/sgkan/Projects/rockphysics/rockphysics/__init__.py",
+		"/C/Users/sgkan/Projects/simpegEM1D/simpegEM1D/__init__.py",
+		"/C/Users/sgkan/Dropbox/Stanford/Kaweah/SkyTEM/kaweah_xyz/110918_01_AVG_export.xyz",
+		"/C/Users/sgkan/Projects/rockphysics/rockphysics/utils.py",
+		"/C/Users/sgkan/Dropbox/Stanford/Kaweah/geosoft_xyz/Kaweah_EM312_MAG.xyz",
+		"/C/Users/sgkan/Projects/simpegEM1D/simpegEM1D/survey.py",
+		"/C/Users/sgkan/Downloads/tandf_texg2051_122.bib",
+		"/C/Users/sgkan/Downloads/2214-4609-pdb.183.315-327 (1).bib",
+		"/C/Users/sgkan/Dropbox/Klara-Rosemary/FOOTHILLS PROJECT/Synthetic_modeling/SimPEG/Py_files/forward_data_sens.py",
+		"/C/Users/sgkan/Dropbox/Klara-Rosemary/FOOTHILLS PROJECT/Synthetic_modeling/SimPEG/Py_files/forward_setup_VTEM_ET.py",
+		"/C/Users/sgkan/Dropbox/Klara-Rosemary/FOOTHILLS PROJECT/Synthetic_modeling/SimPEG/Py_files/forward_setup_SkyTEM304.py",
+		"/C/Users/sgkan/Dropbox/Klara-Rosemary/FOOTHILLS PROJECT/Synthetic_modeling/AGF/304/20200820_20016_MRNRD_SkyTEM304_Preliminary .gex",
+		"/C/Users/sgkan/Projects/simpegEM1D/setup.py",
+		"/C/Users/sgkan/Downloads/seg_gpysa785_EN63.bib",
+		"/C/Users/sgkan/Dropbox/Klara-Rosemary/FOOTHILLS PROJECT/Survey/AGF_delivery/Appendix 6 - Raw_AEM_Data_Files/IVF_ProcessedData/ProcessedData/1201FL1Dpr_RAW_NoDecoupling_wRawSTD.xyz"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 401.0,
+		"where_history":
+		[
+			"C:\\Users\\sgkan\\Projects\\website",
+			"C:\\Users\\sgkan\\Projects\\simpeg\\SimPEG\\electromagnetics\\time_domain_1d",
+			"C:\\Users\\sgkan\\Projects\\simpeg\\electromagnetics\\",
+			"C:\\Users\\sgkan\\Projects\\simpeg\\electromagnetics\\frequency_domain_1d\\",
+			"C:\\Users\\sgkan\\Projects\\simpeg\\electromagnetics\\frequency_domain_1d",
+			"C:\\Users\\sgkan\\Projects\\simpeg",
+			"C:\\Users\\sgkan\\Projects\\discretize\\discretize"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main",
+			"leouieda",
+			"v3",
+			"master",
+			"v2",
+			"main",
+			"master",
+			"site_repo_leo",
+			"site_repo",
+			"sgkang",
+			"the source code used",
+			"0000-0001-6123-9515",
+			"tag",
+			"XXX",
+			"\\n",
+			"self.emg3d_survey",
+			"dipole",
+			"Sska",
+			"def fields",
+			"med",
+			"f['c",
+			"b_v",
+			"med",
+			"pdiff",
+			"C'",
+			"vstack",
+			"Pa",
+			"PTa",
+			"vstack",
+			"hstack",
+			"drhsdh",
+			"_J_h_aquifer",
+			"def get_J_h_aqui",
+			"print",
+			".maps[0]",
+			"Sskv",
+			"get_J_Kv",
+			"get_J_Sske",
+			"get_J_Sskv",
+			"1]",
+			"Sske",
+			"simulation.",
+			"Sske",
+			"Sskv",
+			"J_Sske",
+			"J_Sskv",
+			"m1",
+			"_J_b_aquifer",
+			"print",
+			"update_mesh",
+			"def update_mesh",
+			"print",
+			"b_aquifer",
+			"def update",
+			"def dz",
+			", floor=1",
+			"print",
+			"Cv = ",
+			"Sskv",
+			"n_equiv",
+			"print",
+			"0.0",
+			"3",
+			"1",
+			"floor",
+			"hmin",
+			", adjoint=False",
+			"n_equiv",
+			"J_h_min0",
+			"J_Sska",
+			"self._J_n_equiv",
+			"Sske",
+			".ravel",
+			"r(",
+			"self.",
+			"Sskv",
+			", ",
+			"None",
+			",",
+			"Sske",
+			"+dSske",
+			"-dSske",
+			"Sskv",
+			"Map.T",
+			"Map @",
+			"Map",
+			"=",
+			"self.",
+			"= ",
+			"0.01",
+			"self.SskeMap.P.T * tmp",
+			"np.ones",
+			"self.",
+			"[0]",
+			"Deriv",
+			"SskvDeriv",
+			"MapMap",
+			"Deriv",
+			"mapping",
+			"MapDeriv",
+			"Map",
+			"b_equiv",
+			"h_min0",
+			"n_equiv",
+			"b_equiv",
+			"Kv",
+			"Sske",
+			"SskeMap",
+			"e",
+			"Sske",
+			"print",
+			"def dpred",
+			"np.asscalar(",
+			"self.",
+			"[0]",
+			"Ce",
+			"self.self.",
+			"np.asscalar",
+			"not None",
+			"todo",
+			"Sske",
+			"adjoint=True",
+			"J_h_min0",
+			"b_equiv",
+			"J_b_equiv",
+			"J_Kv",
+			"_J_Sske",
+			"J_Sske"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "research/gwb2019.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13218,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										217,
+										237
+									],
+									[
+										553,
+										573
+									],
+									[
+										885,
+										905
+									],
+									[
+										1219,
+										1239
+									],
+									[
+										1549,
+										1569
+									],
+									[
+										1880,
+										1900
+									],
+									[
+										2214,
+										2234
+									],
+									[
+										2540,
+										2560
+									],
+									[
+										2882,
+										2902
+									],
+									[
+										3218,
+										3238
+									],
+									[
+										3551,
+										3571
+									],
+									[
+										3886,
+										3906
+									],
+									[
+										4227,
+										4247
+									],
+									[
+										4565,
+										4585
+									],
+									[
+										4901,
+										4921
+									],
+									[
+										5241,
+										5261
+									],
+									[
+										5578,
+										5598
+									],
+									[
+										5915,
+										5935
+									],
+									[
+										6250,
+										6270
+									],
+									[
+										6584,
+										6604
+									],
+									[
+										6934,
+										6954
+									],
+									[
+										7267,
+										7287
+									],
+									[
+										7601,
+										7621
+									],
+									[
+										7939,
+										7959
+									],
+									[
+										8281,
+										8301
+									],
+									[
+										8619,
+										8639
+									],
+									[
+										8949,
+										8969
+									],
+									[
+										9296,
+										9316
+									],
+									[
+										9636,
+										9656
+									],
+									[
+										9969,
+										9989
+									],
+									[
+										10308,
+										10328
+									],
+									[
+										10650,
+										10670
+									],
+									[
+										10999,
+										11019
+									],
+									[
+										11336,
+										11356
+									],
+									[
+										11677,
+										11697
+									],
+									[
+										12019,
+										12039
+									],
+									[
+										12351,
+										12371
+									],
+									[
+										12686,
+										12706
+									],
+									[
+										13015,
+										13035
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								13049,
+								13049
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".github/workflows/build.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "research/gap2019.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "papers/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1580,
+								1580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 461.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/sgkan/gh-pages",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 224.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/sgkan/gh-pages.pub",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "research/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1140,
+								1140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "_layouts/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 139.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 287.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "website.sublime-workspace",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\sgkan\\Projects\\website\\website.sublime-workspace"
+			],
+			[
+				"si",
+				"C:\\Users\\sgkan\\Projects\\simpegEM1D\\simpegEM1D-seogi.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
