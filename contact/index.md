@@ -27,7 +27,7 @@ banner_description: "Resistivity distribution of the subsurface in Kaweah Subbas
 </ul>
 
 
-<h2>At the University of Liverpool</h2>
+<h2>At Stanford University</h2>
 
 **When:** Monday-Friday usually between 10:00 - 17:00 (unless in a meeting).
 <br>
