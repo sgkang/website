@@ -25,7 +25,7 @@ banner_description: "The Central Valley of California, U.S.A."
     <a href="https://em.geosci.xyz/">EM GeoSci</a>,
     and a <a href="https://gpg.geosci.xyz/">GPG</a>.
 </li>
-<li>Runner, guitar player, singer, ... </li>
+<li>Runner, guitar player, singer, reader, ... </li>
 </ul>
 </div>
 <div class="col-md-4">
