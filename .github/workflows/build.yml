@@ -4,7 +4,7 @@ on:
   pull_request:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -32,7 +32,7 @@ jobs:
         with:
           personal_token: ${{ secrets.seogi_mac_2 }}
           external_repository: sgkang/sgkang.github.io
-          publish_branch: main
+          publish_branch: master
           publish_dir: ./_build
           # Only keep the latest commit to avoid bloating the repository
           force_orphan: true
