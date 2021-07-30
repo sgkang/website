@@ -22,4 +22,4 @@ Reservoir production monitoring using marine controlled-source electromagnetic (
 
 - A feasibility study of CO2 sequestration monitoring using the mCSEM method at a deep brine aquifer in a shallow sea: [Link to the Paper](https://library.seg.org/doi/10.1190/geo2011-0089.1).
 
-- mCSEM inversion for CO2 sequestration monitoring at a deep brine aquifer in a shallow sea: [Link to the Paper](http://library.seg.org/doi/abs/10.1071/EG14096).
+- mCSEM inversion for CO2 sequestration monitoring at a deep brine aquifer in a shallow sea: [Link to the Paper](https://www.tandfonline.com/doi/full/10.1071/EG14096).

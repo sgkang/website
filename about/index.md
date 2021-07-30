@@ -91,7 +91,7 @@ You can find myself and my research, code, articles, and data at:
         <br>
         <a href="https://www.eoas.ubc.ca/">University of British Columbia </a>, Canada
     </li>
-    <li> Developed geophysical 1D spatially-constrained inversion algorithm that can invert large-scale AEM data. The developed software, referred to as simpeg-EM1D is avaiable though the <a href="https://github.com/simpeg/simpegEM1D">Github</a>. This was integrated with a commercial framework (called <a href="https://gif.eos.ubc.ca/giftools">GIFtools</a>), and has been actively used my major mining companes (TTeck, Barrick, RioTinto, Anglo American, BHP, Glencore and Vale).
+    <li> Developed geophysical 1D spatially-constrained inversion algorithm that can invert large-scale AEM data. The developed software, referred to as simpeg-EM1D is avaiable though the <a href="https://github.com/simpeg/simpegEM1D">Github</a>. This was integrated with a commercial framework (called <a href="https://gif.eos.ubc.ca/giftools">GIFtools</a>), and has been actively used by major mining companes (Teck, Barrick, RioTinto, Anglo American, BHP, Glencore and Vale).
     </li>
 </ul>
 
