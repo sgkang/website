@@ -20,7 +20,7 @@ banner_description: "Resistivity distribution of the subsurface in Kaweah Subbas
     <a href="https://twitter.com/sgkang">@sgkang</a> on Twitter
     </li>
     <li><i class="fa-li fa fa-slack fa-fw"></i>
-    @sgkang on the
+    @seogi on the
     <a href="{{ site.reflinks.simpeg.url }}">{{ site.reflinks.simpeg.title }}</a>
     Slack group.
     </li>
