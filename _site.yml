@@ -48,12 +48,12 @@ menuicons: [
      '<i class="fa fa-github fa-lg" title="Github"></i>'],
     ['https://twitter.com/sgkang',
      '<i class="fa fa-twitter fa-lg" title="Twitter"></i>'],
-    ['https://www.linkedin.com/in/sgkang',
+    ['https://www.linkedin.com/in/seogi-kang',
      '<i class="fa fa-linkedin fa-lg" title="LinkedIn"></i>'],
     ['/tag',
      '<i class="fa fa-tags fa-lg" title="Browse by tag"></i>'],
-    ['/rss.xml',
-     '<i class="fa fa-rss fa-lg" title="RSS feed for blog posts"></i>'],
+    # ['/rss.xml',
+    #  '<i class="fa fa-rss fa-lg" title="RSS feed for blog posts"></i>'],
     ]
 
 twitter: sgkang
