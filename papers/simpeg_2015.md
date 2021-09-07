@@ -1,6 +1,6 @@
 ---
 title: "SimPEG: An open source framework for simulation and gradient based parameter estimation in geophysical applications"
-date: 2021-07-05
+date: 2015-07-05
 author: rcockett, skang, lheagy, apidlisecky, doldenburg
 journal: Computers and Geosciences
 thumbnail: simpeg.png
