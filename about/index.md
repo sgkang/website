@@ -7,7 +7,7 @@ content:
     - bachelors
 banner: slo.png
 banner_position: center left
-banner_description: "Overlooking the Valley of Fire national park in Nevada, USA."
+banner_description: "Imaging sediment type of the subsuface, in Paso Robles, CA, U.S.A."
 ---
 
 
