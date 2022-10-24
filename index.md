@@ -1,6 +1,6 @@
 ---
 title: Seogi Kang
-description: EM Imaging • Groundwater • Minerals • Open Science 
+description: Electromagnetic Imaging • Groundwater • Minerals • Open Science 
 layout: home
 content:
     - papers
