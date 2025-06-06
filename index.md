@@ -18,13 +18,17 @@ banner_description: "The Central Valley of California, U.S.A."
 <div class="row">
 <div class="col-md-8">
 <ul>
-<li>Korean geophysicist currently working in California, U.S.A.</li>
-<li>Postdoctoral Fellow in <a href="https://enviro.stanford.edu/">Environmental Geophysics Group</a> at the Stanford Universiy, U.S.A.</li>
+<li>Korean geophysicist currently working in Winnipeg, MB, Canada</li>
+<li>Assistant Professor in <a href="http://www.emgeolab.org/">EMGeoLab</a> at the <a href="https://umanitoba.ca/">University of Manitoba</a> </li> 
 <li>Building open-source resources: 
     <a href="https://www.simpeg.xyz">SimPEG</a>,
     <a href="https://em.geosci.xyz/">EM GeoSci</a>,
-    and a <a href="https://gpg.geosci.xyz/">GPG</a>.
+    and <a href="https://gpg.geosci.xyz/">GPG</a>.
 </li>
+<li>Scientific knowledge into action:
+    <a href="https://fastpath.stanford.edu">Fastpath: </a>web-based application for recharging California's groundwater,
+    <a href="https://doi.org/10.57761/v480-xw80">Online data base</a> for the state-wide airborne geophysics data
+</li>    
 <li>Runner, guitar player, singer, reader, ... </li>
 </ul>
 </div>

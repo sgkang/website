@@ -39,7 +39,7 @@ menulinks: [
     ['/research', 'Research'],
     ['/papers', 'Papers'],
     # ['/presentations', 'Presentations'],
-    # ['/teaching', 'Teaching'],
+    ['/open-science', 'Open-science'],
     ['/contact', 'Contact'],
     ]
 

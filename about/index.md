@@ -15,13 +15,13 @@ banner_description: "Imaging sediment type of the subsuface, in Paso Robles, CA,
 
 # Short Bio
 
-I got my PhD in Geophysics at University of British Columbia, Canada, in 2018. My thesis work focussed on computational electromagnetics and its application to mining problems. Currently, I am a Postdoctoral Researcher in [Environmental Geophysics Group](https://enviro.stanford.edu/) at Stanford University. My focus is on advancing use of an airborne electromagnetic and remote sensing methods for groundwater management and groundwater science. I continue to contribute to the development of open source software, [SimPEG](https://www.simpeg.xyz), and educational resources, [GeoSci.xyz](https://www.geosci.xyz), for geophysics.
+I completed his PhD in Geophysics at the University of British Columbia, Canada, in 2018. His thesis work focused on computational electromagnetics and its application to mineral exploration. Currently, I am an Assistant Professor in [Electromagnetic Geophysics Lab](http://emgeolab.org/) at the University of Manitoba. His research focuses on advancing electromagnetic imaging for groundwater and miniing applications. I continue to contribute to the development of open source software, [SimPEG](https://www.simpeg.xyz), and educational resources, [GeoSci.xyz](https://www.geosci.xyz), for applied geophysics.
 
 # Curriculum Vitae
 
-A PDF version of my CV: Download Curriculum Vitae
+A PDF version of my CV:
 
-<a href="https://github.com/sgkang/website/raw/master/pdf/cv-seogikang-2021.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer"><i class="fa fa-file-pdf-o"></i> Download Curriculum Vitae</a>
+<a href="https://drive.google.com/file/d/1ja2pF78z9ja9y5mArkP5dLtljh-K9L_0/view?usp=sharing" target="_blank" type="application/pdf" rel="external noopener noreferrer"><i class="fa fa-file-pdf-o"></i> Download Curriculum Vitae</a>
 
 
 # Around the internet
@@ -61,12 +61,32 @@ You can find myself and my research, code, articles, and data at:
 
 # Experience
 
-## Postdoctoral Fellow
+## Assistant Professor
 
 
 <ul class="fa-ul">
     <li><i class="fa-li fa fa-calendar fa-fw"></i>
-        Jan. 2019 - present
+        Jan. 2025 - Present
+    </li>
+    <li><i class="fa-li fa fa-university fa-fw"></i>
+        Department of Earth Sciences
+        <br>
+        Clayton and Ridell Faculty
+        <br>
+        <a href="https://umanitoba.ca">University of Manitoba</a>, Canada
+    </li>
+    <li><i class="fa-li fa fa-info-circle fa-fw"></i>
+        More information about my role and activities can be found in <a href="http://emgeolab.org"> Electromagnetic Geophysics Lab</a>
+    </li>
+</ul>
+
+
+## Postdoctoral Fellow / Research Scientist
+
+
+<ul class="fa-ul">
+    <li><i class="fa-li fa fa-calendar fa-fw"></i>
+        Jan. 2019 - Oct. 2024
     </li>
     <li><i class="fa-li fa fa-university fa-fw"></i>
         Department of Geophysics
@@ -76,7 +96,7 @@ You can find myself and my research, code, articles, and data at:
         <a href="https://earth.stanford.edu/">Stanford Univeristy</a>, U.S.A.
     </li>
     <li><i class="fa-li fa fa-info-circle fa-fw"></i>
-        More information about my role and activities can be found in <a href="https://enviro.stanford.edu/">Environmental Geophysics Group</a> and <a href="https://mapwater.stanford.edu/">Ground Water Architecture Project</a>
+        More information about my role and activities can be found in <a href="https://enviro.stanford.edu/">Environmental Geophysics Group</a>, <a href="https://mapwater.stanford.edu/">Ground Water Architecture Project</a>, and <a href="https://fastpath.stanford.edu/">Fastpath Web-based Application</a> 
     </li>
 </ul>
 
@@ -91,8 +111,10 @@ You can find myself and my research, code, articles, and data at:
         <br>
         <a href="https://www.eoas.ubc.ca/">University of British Columbia </a>, Canada
     </li>
+    <li> Co-created <a href="https://www.simpeg.xyz">SimPEG</a> - Python-based open-source geophysics software</li>
     <li> Developed geophysical 1D spatially-constrained inversion algorithm that can invert large-scale AEM data. The developed software, referred to as simpeg-EM1D is avaiable though the <a href="https://github.com/simpeg/simpegEM1D">Github</a>. This was integrated with a commercial framework (called <a href="https://gif.eos.ubc.ca/giftools">GIFtools</a>), and has been actively used by major mining companes (Teck, Barrick, RioTinto, Anglo American, BHP, Glencore and Vale).
     </li>
+
 </ul>
 
 # Education

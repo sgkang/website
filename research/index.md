@@ -47,20 +47,3 @@ Exploiting the frequency dependence of physical properties, particularly electri
     {{ make_tags(["ip"], icon=true) }}
     {{ make_index(site.reflinks["/tag/ip"].content[:4], site, hr=false, date=false) }}
 </div>
-
-# Open-source resources
-
-I am a co-creator of Python-based open-source geophysical simulation and inversion package, SimPEG, and an editor of on-line text books for EM and applied geophysics: EM GeoSCi and GPG, respectively.
-
-
-## SimPEG ([www.simpeg.xyz](https://www.simpeg.xyz))
-
-SimPEG includes a suite of geophysical methods including magnetics, gravity, ERT (or DC resistivity), EM, magnetotellurics (MT).
-
-## EM GeoSci ([em.geosci.xyz](https://www.em.geosci.xyz))
-
-On-line text book for electromagnetic geophysics.
-
-## Geophysics for Practicing Geophysicists ([gpg.geosci.xyz](https://gpg.geosci.xyz))
-
-On-line text book for applied geophysics.
