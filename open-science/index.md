@@ -12,7 +12,7 @@ banner_description: "Imaging sediment type of the subsuface, in Paso Robles, CA,
 
 # Open-science
 
-I am committed to implement open-science practices (software, data, documentation) for my research and education, particularly for the development of open-source software projects in geophysics, all of which are accessible through my GitHub profile (https://github.com/sgkang). Some of major projects include:
+I am committed to implement open-science practices (software, data, documentation) for my research and education, particularly for the development of open-source software projects in geophysics, all of which are accessible through my GitHub profile ([github.com/sgkang](https://github.com/sgkang)). Some of major projects include:
 
 ## Fastpath ([fastpath.stanford.edu](https://fastpath.stanford.edu))
 
