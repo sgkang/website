@@ -24,8 +24,8 @@ SimPEG includes a suite of geophysical methods including magnetics, gravity, ERT
 
 ## EM GeoSci ([em.geosci.xyz](https://www.em.geosci.xyz))
 
-On-line text book for electromagnetic geophysics.
+Online textbook for electromagnetic geophysics.
 
 ## Geophysics for Practicing Geophysicists ([gpg.geosci.xyz](https://gpg.geosci.xyz))
 
-On-line text book for applied geophysics.
+Online textbook for applied geophysics.
