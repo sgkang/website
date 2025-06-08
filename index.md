@@ -26,7 +26,7 @@ banner_description: "The Central Valley of California, U.S.A."
     and <a href="https://gpg.geosci.xyz/">GPG</a>.
 </li>
 <li>Scientific knowledge into action:
-    <a href="https://fastpath.stanford.edu">Fastpath: </a>web-based application for recharging California's groundwater,
+    <a href="https://fastpath.stanford.edu">Fastpath - </a>web-based application for recharging California's groundwater,
     <a href="https://doi.org/10.57761/v480-xw80">Online data base</a> for the state-wide airborne geophysics data
 </li>    
 <li>Runner, guitar player, singer, reader, ... </li>

@@ -11,10 +11,10 @@ banner_description: "Resistivity distribution of the subsurface in Kaweah Subbas
 
 <ul class="fa-ul contact">
     <li><i class="fa-li fa fa-envelope fa-fw"></i>
-    <a href="mailto:sgkang09@gmail.com">sgkang09@gmail.com</a>
+    <a href="mailto:seogi.kang@umanitoba.ca">seogi.kang@umanitoba.ca</a>
     </li>
     <li><i class="fa-li fa fa-envelope fa-fw"></i>
-    <a href="mailto:sgakng09@stanford.edu">sgakng09@stanford.edu</a>
+    <a href="mailto:sgkang09@gmail.com">sgkang09@gmail.com</a>
     </li>
     <li><i class="fa-li fa fa-twitter fa-fw"></i>
     <a href="https://twitter.com/sgkang">@sgkang</a> on Twitter
