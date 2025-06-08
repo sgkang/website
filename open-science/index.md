@@ -22,7 +22,7 @@ Fastpath is a web-based platform that provides seamless access to public geophys
 
 SimPEG includes a suite of geophysical methods including magnetics, gravity, ERT (or DC resistivity), EM, magnetotellurics (MT).
 
-## EM GeoSci ([em.geosci.xyz](https://www.em.geosci.xyz))
+## EM GeoSci ([em.geosci.xyz](https://em.geosci.xyz))
 
 Online textbook for electromagnetic geophysics.
 
