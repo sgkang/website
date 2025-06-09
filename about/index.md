@@ -15,7 +15,7 @@ banner_description: "Imaging sediment type of the subsuface, in Paso Robles, CA,
 
 # Short Bio
 
-I completed his PhD in Geophysics at the University of British Columbia, Canada, in 2018. His thesis work focused on computational electromagnetics and its application to mineral exploration. Currently, I am an Assistant Professor in [Electromagnetic Geophysics Lab](http://emgeolab.org/) at the University of Manitoba. His research focuses on advancing electromagnetic imaging for groundwater and miniing applications. I continue to contribute to the development of open source software, [SimPEG](https://www.simpeg.xyz), and educational resources, [GeoSci.xyz](https://www.geosci.xyz), for applied geophysics.
+I completed his PhD in Geophysics at the University of British Columbia, Canada, in 2018. His thesis work focused on computational electromagnetics and its application to mineral exploration. Currently, I am an Assistant Professor leading [Electromagnetic Geophysics Lab](http://emgeolab.org/) at the University of Manitoba. His research focuses on advancing electromagnetic imaging for groundwater and miniing applications. I continue to contribute to the development of open source software, [SimPEG](https://www.simpeg.xyz), and educational resources, [GeoSci.xyz](https://www.geosci.xyz), for applied geophysics.
 
 # Curriculum Vitae
 
