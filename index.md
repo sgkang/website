@@ -19,7 +19,7 @@ banner_description: "The Central Valley of California, U.S.A."
 <div class="col-md-8">
 <ul>
 <li>Korean geophysicist currently working in Winnipeg, MB, Canada</li>
-<li>Assistant Professor in <a href="http://www.emgeolab.org/">EMGeoLab</a> at the <a href="https://umanitoba.ca/">University of Manitoba</a> </li> 
+<li>Assistant Professor leading the <a href="http://www.emgeolab.org/">EMGeoLab</a> at the <a href="https://umanitoba.ca/">University of Manitoba</a> </li> 
 <li>Building open-source resources: 
     <a href="https://www.simpeg.xyz">SimPEG</a>,
     <a href="https://em.geosci.xyz/">EM GeoSci</a>,
